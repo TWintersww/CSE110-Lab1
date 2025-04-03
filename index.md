@@ -14,7 +14,7 @@ if (difficult) {
 }
 ```
 
-I like reading the [news] (https://www.nytimes.com/)
+I like reading the [news](https://www.nytimes.com/)
 
 In case you forgot my [major](#ucsd-ce-major) 
 
